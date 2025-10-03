@@ -37,4 +37,4 @@ author_profile: true
   - Berkeley Statistics Annual Research Symposium (BSTARS), Berkeley, CA, USA, Sep. 2025.
 
 - Totally Concave Regression
-  - Berkeley Statistics Annual Research Symposium (BSTARS), Berkeley, CA, USA, Apr. 2024. [poster](/files/BSTARS_Apr2024.pdf)
+  - Berkeley Statistics Annual Research Symposium (BSTARS), Berkeley, CA, USA, Apr. 2024.
