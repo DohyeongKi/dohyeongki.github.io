@@ -27,7 +27,6 @@ Shape constraints in nonparametric regression provide a powerful framework for e
 
 - **Ki, D.** and Guntuboyina, A. (2025+) What functions does XGBoost learn? In preparation. 
 
----
 
 ## Work in Progress
 
