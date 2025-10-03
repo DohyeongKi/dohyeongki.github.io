@@ -34,7 +34,7 @@ author_profile: true
 ## Poster Presentations
 
 - What Functions Does XGBoost Learn?
-  - Berkeley Statistics Annual Research Symposium (BSTARS), Berkeley, CA, USA, Sep. 2025.
+  - Berkeley Statistics Annual Research Symposium (BSTARS), Berkeley, CA, USA, Sep. 2025. [poster](/files/BSTARS_Sep2025.pdf)s
 
 - Totally Concave Regression
-  - Berkeley Statistics Annual Research Symposium (BSTARS), Berkeley, CA, USA, Apr. 2024.
+  - Berkeley Statistics Annual Research Symposium (BSTARS), Berkeley, CA, USA, Apr. 2024. [poster](/files/BSTARS_Apr2024.pdf)
