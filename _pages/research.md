@@ -15,10 +15,10 @@ author_profile: true
 
 ## Working Papers
 
-- **Ki, D.** and Guntuboyina, A. (2025+) What functions does XGBoost learn? In preparation.
+- **Ki, D.** and Guntuboyina, A. (2025+) What Functions Does XGBoost Learn? In preparation.
 
 ---
 
-## Work in Progress
+## Software
 
-- Nearly Log-Concave Density Estimation. With Arlene K. H. Kim and Adityanand Guntuboyina.
+- regmdc: An R package for fitting nonparametric regression models with mixed derivative constraints. [github](https://github.com/DohyeongKi/regmdc)
