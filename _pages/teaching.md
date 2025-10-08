@@ -18,11 +18,13 @@ author_profile: true
 - STAT 2: Introduction to Statistics, Fall 2023
 - STAT 201A: Introduction to Probability at an Advanced Level, Fall 2022
 - STAT 134: Concepts of Probability, Spring 2022
-* Outstanding GSI Award, Graduate Division, UC Berkeley, 2023
+
+Outstanding GSI Award, Graduate Division, UC Berkeley, 2023
 
 
 ## Undergraduate Tutor at Seoul National University
 - Calculus for Humanities and Social Sciences 2, Fall 2018
 - Differential and Integral Calculus 1, Spring 2018
 - Calculus 2, Fall 2017
-* Outstanding Tutor Award, Faculty of Liberal Education, Seoul National University, 2018
+
+Outstanding Tutor Award, Faculty of Liberal Education, Seoul National University, 2018
