@@ -9,7 +9,7 @@ author_profile: true
 
 - **Ki, D.**, Fang, B., and Guntuboyina, A. (2024) MARS via LASSO. Annals of Statistics, 52(3), 1102-1126. [arXiv](https://arxiv.org/abs/2111.11694) [code](https://github.com/DohyeongKi/mars-lasso-paper) [journal](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/MARS-via-LASSO/10.1214/24-AOS2384.full)
     - IISA Student Paper Award, International Indian Statistical Association, 2023
-    - SFASA Student Travel Award, San FranciscoBay Area Chapter of the American Statistical Association, 2022
+    - SFASA Student Travel Award, San Francisco Bay Area Chapter of the American Statistical Association, 2022
 
 ## Submitted/Under Revision Articles
 
