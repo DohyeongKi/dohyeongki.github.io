@@ -34,6 +34,7 @@ author_profile: true
 ## Poster Presentations
 
 - What Functions Does XGBoost Learn?
+  - 1st International New Researchers Conference (INRC), Seville, Spain, Dec. 2025.
   - Berkeley Statistics Annual Research Symposium (BSTARS), Berkeley, CA, USA, Sep. 2025. [poster](/files/BSTARS_Sep2025.pdf)
 
 - Totally Concave Regression
