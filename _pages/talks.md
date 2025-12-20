@@ -18,7 +18,7 @@ author_profile: true
 ## Talks
 
 - What Functions Does XGBoost Learn?
-  - International Conference on Statistics and Data Science (ICSDS), Seville, Spain, Dec. 2025.
+  - International Conference on Statistics and Data Science (ICSDS), Seville, Spain, Dec. 2025. [slides](/files/ICSDS_Dec2025.pdf)
 
 - Totally Concave Regression
   - Joint Statistical Meetings (JSM), Nashville, TN, USA, Aug. 2025. [slides](/files/JSM_Aug2025.pdf)
