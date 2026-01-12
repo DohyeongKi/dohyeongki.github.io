@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Selected Works"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -32,6 +32,16 @@ publication. [arXiv](https://arxiv.org/abs/2501.04360)
     Association, 2023
     - SFASA Student Travel Award, San Francisco Bay Area Chapter of the 
     American Statistical Association, 2022
+
+- **Ki, D.** and Park, B. U. (2021) Intrinsic Hölder classes of 
+density functions on Riemannian manifolds and lower bounds to 
+convergence rates. *Statistics & Probability Letters*, 169, 108959.
+[journal](https://www.sciencedirect.com/science/article/pii/S0167715220302625)
+
+- Han, K. and **Ki, D.** (2020) Better bootstrapping for approximate 
+homomorphic encryption. In *Cryptographer's Track at the RSA Conference (CT-RSA)* 
+(pp. 364–390), Cham: Springer.
+[conference](https://link.springer.com/chapter/10.1007/978-3-030-40186-3_16)
 
 ## Software
 
