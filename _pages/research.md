@@ -12,6 +12,8 @@ learn? Submitted. [arXiv](https://arxiv.org/abs/2601.05444)
     - ICSDS Student Travel Award, Institute of Mathematical Statistics, 
     2025
 
+## Publications
+
 - **Ki, D.** and Guntuboyina, A. (2026) Totally concave regression. 
 *Journal of the American Statistical Association*, accepted for 
 publication. [arXiv](https://arxiv.org/abs/2501.04360) 
@@ -20,8 +22,6 @@ publication. [arXiv](https://arxiv.org/abs/2501.04360)
     Statistical Society, 2025
     - IMS Hannan Graduate Student Travel Award, Institute of 
     Mathematical Statistics, 2024
-
-## Publications
 
 - **Ki, D.**, Fang, B., and Guntuboyina, A. (2024) MARS via LASSO. 
 *Annals of Statistics*, 52(3), 1102-1126. 
