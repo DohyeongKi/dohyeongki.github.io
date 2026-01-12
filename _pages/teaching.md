@@ -12,7 +12,8 @@ author_profile: true
 {% endfor %}
 
 ## Graduate Student Instructor (GSI) at UC Berkeley
-- STAT 153/248: Introduction to Time Series/Analysis of Time Series, Spring 2025 and Fall 2025
+- STAT 153/248: Introduction to Time Series/Analysis of Time Series, 
+Spring 2025 and Fall 2025
 - STAT 210A: Theoretical Statistics, Fall 2021 and Fall 2024
 - STAT 151A: Linear Modelling: Theory and Applications, Spring 2024
 - STAT 2: Introduction to Statistics, Fall 2023
@@ -27,4 +28,5 @@ Outstanding GSI Award, Graduate Division, UC Berkeley, 2023
 - Differential and Integral Calculus 1, Spring 2018
 - Calculus 2, Fall 2017
 
-Outstanding Tutor Award, Faculty of Liberal Education, Seoul National University, 2018
+Outstanding Tutor Award, Faculty of Liberal Education, Seoul National 
+University, 2018
