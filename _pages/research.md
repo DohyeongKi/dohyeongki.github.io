@@ -18,6 +18,7 @@ learn? Submitted. [arXiv](https://arxiv.org/abs/2601.05444)
 *Journal of the American Statistical Association*, accepted for 
 publication. [arXiv](https://arxiv.org/abs/2501.04360) 
 [code](https://github.com/DohyeongKi/tc-reg-paper)
+[journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2620145)
     - KISS Outstanding Student Paper Award, Korean International 
     Statistical Society, 2025
     - IMS Hannan Graduate Student Travel Award, Institute of 
