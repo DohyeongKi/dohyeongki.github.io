@@ -9,7 +9,7 @@ author_profile: true
 
 - **Ki, D.** and Guntuboyina, A. (2026+) What functions does XGBoost 
 learn? Submitted. [[arXiv]](https://arxiv.org/abs/2601.05444)
-[[slides]](/files/ICSDS_Dec2025.pdf)
+[[slides]](/files/NUS_Jan2026.pdf)
 [[poster]](/files/INRC_Dec2025.pdf)
     - ICSDS Student Travel Award, Institute of Mathematical Statistics, 
     2025
@@ -19,8 +19,8 @@ learn? Submitted. [[arXiv]](https://arxiv.org/abs/2601.05444)
 - **Ki, D.** and Guntuboyina, A. (2026) Totally concave regression. 
 *Journal of the American Statistical Association*, accepted for 
 publication. [[arXiv]](https://arxiv.org/abs/2501.04360) 
-[[code]](https://github.com/DohyeongKi/tc-reg-paper)
 [[journal]](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2620145)
+[[code]](https://github.com/DohyeongKi/tc-reg-paper)
 [[slides]](/files/JSM_Aug2025.pdf)
 [[poster]](/files/BSTARS_Apr2024.pdf)
     - KISS Outstanding Student Paper Award, Korean International 
@@ -31,8 +31,8 @@ publication. [[arXiv]](https://arxiv.org/abs/2501.04360)
 - **Ki, D.**, Fang, B., and Guntuboyina, A. (2024) MARS via LASSO. 
 *Annals of Statistics*, 52(3), 1102-1126. 
 [[arXiv]](https://arxiv.org/abs/2111.11694) 
-[[code]](https://github.com/DohyeongKi/mars-lasso-paper) 
 [[journal]](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/MARS-via-LASSO/10.1214/24-AOS2384.full)
+[[code]](https://github.com/DohyeongKi/mars-lasso-paper) 
 [[slides]](/files/IISA_2023.pdf)
     - IISA Student Paper Award, International Indian Statistical 
     Association, 2023
