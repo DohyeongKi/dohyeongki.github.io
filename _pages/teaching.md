@@ -28,5 +28,5 @@ Outstanding GSI Award, Graduate Division, UC Berkeley, 2023
 - Differential and Integral Calculus 1, Spring 2018
 - Calculus 2, Fall 2017
 
-Outstanding Tutor Award, Faculty of Liberal Education, Seoul National 
+Best Tutor Award, Faculty of Liberal Education, Seoul National 
 University, 2018
