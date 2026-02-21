@@ -8,7 +8,7 @@ author_profile: true
 ## Submitted/Under Revision Articles
 
 - **Ki, D.** and Guntuboyina, A. (2026+) What functions does XGBoost 
-learn? Submitted. [arXiv](https://arxiv.org/abs/2601.05444)
+learn? Submitted. [[arXiv]](https://arxiv.org/abs/2601.05444)
     - ICSDS Student Travel Award, Institute of Mathematical Statistics, 
     2025
 
@@ -16,9 +16,9 @@ learn? Submitted. [arXiv](https://arxiv.org/abs/2601.05444)
 
 - **Ki, D.** and Guntuboyina, A. (2026) Totally concave regression. 
 *Journal of the American Statistical Association*, accepted for 
-publication. [arXiv](https://arxiv.org/abs/2501.04360) 
-[code](https://github.com/DohyeongKi/tc-reg-paper)
-[journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2620145)
+publication. [[arXiv]](https://arxiv.org/abs/2501.04360) 
+[[code]](https://github.com/DohyeongKi/tc-reg-paper)
+[[journal]](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2620145)
     - KISS Outstanding Student Paper Award, Korean International 
     Statistical Society, 2025
     - IMS Hannan Graduate Student Travel Award, Institute of 
@@ -26,9 +26,9 @@ publication. [arXiv](https://arxiv.org/abs/2501.04360)
 
 - **Ki, D.**, Fang, B., and Guntuboyina, A. (2024) MARS via LASSO. 
 *Annals of Statistics*, 52(3), 1102-1126. 
-[arXiv](https://arxiv.org/abs/2111.11694) 
-[code](https://github.com/DohyeongKi/mars-lasso-paper) 
-[journal](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/MARS-via-LASSO/10.1214/24-AOS2384.full)
+[[arXiv]](https://arxiv.org/abs/2111.11694) 
+[[code]](https://github.com/DohyeongKi/mars-lasso-paper) 
+[[journal]](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/MARS-via-LASSO/10.1214/24-AOS2384.full)
     - IISA Student Paper Award, International Indian Statistical 
     Association, 2023
     - SFASA Student Travel Award, San Francisco Bay Area Chapter of the 
@@ -37,15 +37,15 @@ publication. [arXiv](https://arxiv.org/abs/2501.04360)
 - **Ki, D.** and Park, B. U. (2021) Intrinsic Hölder classes of 
 density functions on Riemannian manifolds and lower bounds to 
 convergence rates. *Statistics & Probability Letters*, 169, 108959.
-[journal](https://www.sciencedirect.com/science/article/pii/S0167715220302625)
+[[journal]](https://www.sciencedirect.com/science/article/pii/S0167715220302625)
 
 - Han, K. and **Ki, D.** (2020) Better bootstrapping for approximate 
 homomorphic encryption. In *Cryptographer's Track at the RSA Conference (CT-RSA)* 
 (pp. 364–390), Cham: Springer.
-[conference](https://link.springer.com/chapter/10.1007/978-3-030-40186-3_16)
+[[proceedings]](https://link.springer.com/chapter/10.1007/978-3-030-40186-3_16)
 
 ## Software
 
 - **regmdc**: R package for fitting nonparametric regression models 
 with mixed derivative constraints. 
-[github](https://github.com/DohyeongKi/regmdc)
+[[github]](https://github.com/DohyeongKi/regmdc)
