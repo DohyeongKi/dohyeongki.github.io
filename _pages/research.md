@@ -10,7 +10,7 @@ author_profile: true
 - **Ki, D.** and Guntuboyina, A. (2026+) What functions does XGBoost 
 learn? Submitted. [[arXiv]](https://arxiv.org/abs/2601.05444)
 [[slides]](/files/ICSDS_Dec2025.pdf)
-[poster](/files/INRC_Dec2025.pdf)
+[[poster]](/files/INRC_Dec2025.pdf)
     - ICSDS Student Travel Award, Institute of Mathematical Statistics, 
     2025
 
